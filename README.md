@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**randseas/randseas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,9 +8,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+---
 
-
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Used Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -22,7 +21,7 @@
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📈 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&theme=radical" />
