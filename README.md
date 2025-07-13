@@ -24,7 +24,7 @@
 
 ### 📈 Statistics
 
-<div style="display:flex; gap: 1rem; align-items:flex-start;">
+<div style="display:flex; gap:10px; align-items:flex-start; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=randseas&show_icons=true&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
