@@ -8,6 +8,7 @@
 
 ### Tech Stack
 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
