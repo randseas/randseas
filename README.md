@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About Me
 
 - Interested in backend, system software, and electronics collaborations.  
