@@ -1,11 +1,3 @@
-## About Me
-
-- Interested in backend, system software, and electronics collaborations.  
-- Expertise in full-stack architecture, React, Express, Node.js, JavaScript and TypeScript.  
-- <a href="https://t.me/randseas">t.me/randseas</a>  
-
----
-
 ### Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
