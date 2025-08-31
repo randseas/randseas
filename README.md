@@ -4,11 +4,10 @@
 
 class Randseas {
 public:
-    std::string name = "randseas";
     int age = 15;
+    std::string name = "randseas";
     std::string location = "Istanbul, Turkey";
     std::string role = "Full Stack Developer";
-
     std::vector<std::string> stack = {
         "Node.js", 
         "JavaScript", 
@@ -24,7 +23,6 @@ public:
         "MySQL"
     };
     std::vector<std::string> projects = { "Waultcloud", "Base Language" };
-
     void introduce() const {
         std::cout << "Hi, I'm " << name << ", a " << role 
                   << " from " << location << ".\n";
