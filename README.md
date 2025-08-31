@@ -1,4 +1,36 @@
-## Tech Stack
+## whoami
+```cpp
+#include <string>
+#include <vector>
+
+class Randseas {
+public:
+    std::string name = "randseas";
+    int age = 15;
+    std::string location = "Istanbul, Turkey";
+    std::string role = "Full Stack Developer";
+
+    std::vector<std::string> stack = {"Node.js", "JavaScript", "TypeScript", "Express", "React", "Next.js", "CSS3", "TailwindCSS", "Vercel", "C++", "MongoDB", "MySQL};
+    std::vector<std::string> projects = {"Waultcloud", "Base Language"};
+
+    void introduce() const {
+        std::cout << "Hi, I'm " << name << ", a " << role 
+                  << " from " << location << ".\n";
+        std::cout << "I code in: ";
+        for (const auto& _stack : stack) std::cout << _stack << " ";
+        std::cout << "\nMy projects: ";
+        for (const auto& proj : projects) std::cout << proj << " ";
+        std::cout << std::endl;
+    }
+};
+
+int main() {
+    Randseas user;
+    user.introduce();
+}
+```
+
+## stack
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
