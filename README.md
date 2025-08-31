@@ -57,9 +57,9 @@ int main() {
 
 ---
 
-<div style="display: flex !important; flex-direction: row !important; gap: 0px !important; width: 100% !important; align-items: flex-start !important; justify-content: center !important; flex-wrap: nowrap !important;">
-  <img style="width: 49.5% !important;" src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
-  <img style="width: 49.5% !important;" src="https://github-readme-streak-stats.herokuapp.com?user=randseas&show_icons=true&theme=radical&hide_border=true" alt="GitHub streak" />
+<div style="display: flex !important; flex-direction: row !important; gap: 0px !important; width: 100% !important; height: 100% !important; align-items: flex-start !important; justify-content: center !important; flex-wrap: nowrap !important;">
+  <img style="width: 49.5% !important; height: 100% !important;" src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
+  <img style="width: 49.5% !important; height: 100% !important;" src="https://github-readme-streak-stats.herokuapp.com?user=randseas&show_icons=true&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
