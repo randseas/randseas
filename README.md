@@ -9,8 +9,21 @@ public:
     std::string location = "Istanbul, Turkey";
     std::string role = "Full Stack Developer";
 
-    std::vector<std::string> stack = {"Node.js", "JavaScript", "TypeScript", "Express", "React", "Next.js", "CSS3", "TailwindCSS", "Vercel", "C++", "MongoDB", "MySQL};
-    std::vector<std::string> projects = {"Waultcloud", "Base Language"};
+    std::vector<std::string> stack = {
+        "Node.js", 
+        "JavaScript", 
+        "TypeScript", 
+        "Express", 
+        "React", 
+        "Next.js", 
+        "CSS3", 
+        "TailwindCSS", 
+        "Vercel", 
+        "C++", 
+        "MongoDB", 
+        "MySQL"
+    };
+    std::vector<std::string> projects = { "Waultcloud", "Base Language" };
 
     void introduce() const {
         std::cout << "Hi, I'm " << name << ", a " << role 
