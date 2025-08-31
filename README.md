@@ -1,4 +1,4 @@
-### Tech Stack
+## Tech Stack
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,9 +15,11 @@
 
 ---
 
-<div style="display:flex; gap:0px; width: 100%; align-items:center; justify-content:center; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=randseas&show_icons=true&theme=radical&hide_border=true" alt="GitHub streak" />
+## Stats
+
+<div style="display: flex !important; gap: 0px !important; width: 100% !important; align-items: center !important; justify-content: center !important; flex-wrap: nowrap !important;">
+  <img style="width: 200px !important;" src="https://github-readme-stats.vercel.app/api?username=randseas&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
+  <img style="width: 200px !important;" src="https://github-readme-streak-stats.herokuapp.com?user=randseas&show_icons=true&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
