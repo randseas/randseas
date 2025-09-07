@@ -22,22 +22,8 @@ public:
         "MongoDB", 
         "MySQL"
     };
-    std::vector<std::string> projects = { "Waultcloud", "Base Language" };
-    void introduce() const {
-        std::cout << "Hi, I'm " << name << ", a " << role 
-                  << " from " << location << ".\n";
-        std::cout << "I code in: ";
-        for (const auto& _stack : stack) std::cout << _stack << " ";
-        std::cout << "\nMy projects: ";
-        for (const auto& proj : projects) std::cout << proj << " ";
-        std::cout << std::endl;
-    }
+    std::vector<std::string> projects = { "Base Language", "Fiosoft" };
 };
-
-int main() {
-    Randseas user;
-    user.introduce();
-}
 ```
 
 ---
