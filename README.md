@@ -17,10 +17,13 @@ public:
         "Next.js", 
         "CSS3", 
         "TailwindCSS", 
-        "Vercel", 
+        "Vercel",
+        "C#",
         "C++", 
         "MongoDB", 
-        "MySQL"
+        "MySQL",
+        "Vue.js",
+        "Nuxt"
     };
     std::vector<std::string> projects = { "Base Language", "Fiosoft" };
 };
