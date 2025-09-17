@@ -25,7 +25,7 @@ public:
         "Vue.js",
         "Nuxt"
     };
-    std::vector<std::string> projects = { "Base Language", "Fiosoft" };
+    std::vector<std::string> projects = { "Base Language", "Koala Framework" };
 };
 ```
 
