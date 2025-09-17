@@ -4,8 +4,8 @@
 
 class Randseas {
 public:
-    int age = 15;
     std::string name = "randseas";
+    int age = 15;
     std::string location = "Istanbul, Turkey";
     std::string role = "Full Stack Developer";
     std::vector<std::string> stack = {
