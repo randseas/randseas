@@ -19,14 +19,14 @@ public:
 ![Express](https://img.shields.io/badge/express-0c0c0c?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-2465f1?style=for-the-badge&logo=css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-66b982.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-7edf83.svg?style=for-the-badge&logo=nuxt&logoColor=333333)
+![CSS](https://img.shields.io/badge/css3-2465f1?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-66b982.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-7edf83.svg?style=for-the-badge&logo=nuxt&logoColor=333333)
 
 ---
 
