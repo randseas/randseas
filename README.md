@@ -8,24 +8,6 @@ public:
     int age = 15;
     std::string location = "Istanbul, Turkey";
     std::string role = "Full Stack Developer";
-    std::vector<std::string> stack = {
-        "Node.js", 
-        "JavaScript", 
-        "TypeScript", 
-        "Express", 
-        "React", 
-        "Next.js", 
-        "CSS3", 
-        "TailwindCSS", 
-        "Vercel",
-        "C#",
-        "C++", 
-        "MongoDB", 
-        "MySQL",
-        "Vue.js",
-        "Nuxt"
-    };
-    std::vector<std::string> projects = { "Base Language", "Koala Framework" };
 };
 ```
 
