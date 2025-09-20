@@ -25,6 +25,8 @@ public:
 ![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-66b982.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-7edf83.svg?style=for-the-badge&logo=nuxt&logoColor=333333)
 
 ---
 
