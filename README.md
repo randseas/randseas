@@ -30,8 +30,9 @@ impl Default for Randseas {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![C](https://img.shields.io/badge/C-953dac?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-953dac?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-4479A1.svg?style=for-the-badge&logo=rust&logoColor=white])
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
