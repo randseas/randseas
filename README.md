@@ -19,7 +19,6 @@ pub const RANDSEAS: Randseas = Randseas {
         "React.js",
         "Next.js",
         "Linux",
-        "Embedded Systems",
     ],
     values: &[
         "Open Source",
