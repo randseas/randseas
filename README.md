@@ -1,19 +1,39 @@
 ```rust
-struct Randseas {
-    name: String,
-    location: String,
-    role: String,
+#[derive(Debug)]
+pub struct Randseas {
+    pub name: &'static str,
+    pub role: &'static str,
+    pub location: &'static str,
+    pub stack: &'static [&'static str],
+    pub values: &'static [&'static str],
+    pub interests: &'static [&'static str],
 }
 
-impl Default for Randseas {
-    fn default() -> Self {
-        Self {
-            name: "randseas".into(),
-            location: "Istanbul, Turkey".into(),
-            role: "Full Stack Developer".into(),
-        }
-    }
-}
+pub const RANDSEAS: Randseas = Randseas {
+    name: "randseas",
+    role: "Software Engineer",
+    location: "Istanbul, Turkey",
+    stack: &[
+        "Rust",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Linux",
+        "Embedded Systems",
+    ],
+    values: &[
+        "Open Source",
+        "Open Hardware",
+    ],
+    interests: &[
+        "Operating Systems",
+        "Graphics Programming",
+        "Embedded Systems",
+        "Electronics",
+        "RF Engineering",
+        "Robotics",
+    ],
+};
 ```
 
 ---
