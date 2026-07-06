@@ -16,7 +16,7 @@ pub const RANDSEAS: Randseas = Randseas {
     stack: &[
         "Rust",
         "TypeScript",
-        "React.js",
+        "React",
         "Next.js",
         "Linux",
     ],
@@ -26,6 +26,7 @@ pub const RANDSEAS: Randseas = Randseas {
     ],
     interests: &[
         "Operating Systems",
+        "Low-level Programming",
         "Graphics Programming",
         "Embedded Systems",
         "Electronics",
