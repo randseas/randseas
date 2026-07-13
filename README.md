@@ -1,15 +1,5 @@
 ```rust
-#[derive(Debug)]
-pub struct Randseas {
-    pub name: &'static str,
-    pub role: &'static str,
-    pub location: &'static str,
-    pub stack: &'static [&'static str],
-    pub values: &'static [&'static str],
-    pub interests: &'static [&'static str],
-}
-
-pub const RANDSEAS: Randseas = Randseas {
+pub const RANDSEAS: Randseas = Randseas
     name: "randseas",
     role: "Software Engineer",
     location: "Istanbul, Turkey",
